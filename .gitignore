@@ -1,0 +1,24 @@
+
+# Icarus Verilog simulation outputs
+*.vvp
+*.vcd
+*.fst
+*.lxt
+
+# Vivado generated files
+.Xil/
+*.cache/
+*.runs/
+*.sim/
+*.hw/
+*.ip_user_files/
+*.jou
+*.log
+*.str
+*.wdb
+*.pb
+
+# Temporary files
+*.tmp
+*.bak
+*~
